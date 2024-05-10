@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.slide {
+  display: none;
+  text-align: center;
+  padding: 50px;
+}
+
+.slide h1 {
+  font-size: 36px;
+}
+
+.slide h2 {
+  font-size: 24px;
+}
+
+/* Additional styling as needed */
+
